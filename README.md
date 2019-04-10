@@ -1,5 +1,5 @@
 # RestroSpect
-VR based Restaurant Table Reservation
+Virtual Tour based Restaurant Table Reservation
 
 The Web Based project which provides the Virtual Tour of the Restaurants (Currently only 1 Restauranti.e Royal Dine) and allows the user to visualize (look & feel) prior to the visit. Particular user can Reserve the Table/spot of their own choice by just Clicking the Table/spot from the virtual tour , the request is directly send to the manager for approval and the user gets the notification if the request is approved.
 
